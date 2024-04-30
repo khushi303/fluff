@@ -405,7 +405,7 @@
   }
 
   .road_line {
-    left: 66px;
+    left: 78px;
     top: 0;
   }
 
@@ -435,6 +435,7 @@
     bottom: -16%;
     left: 5%;
   }
+
 }
 
 @media (max-width:992px) {
